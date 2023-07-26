@@ -1,5 +1,5 @@
 # my1st_repo
-This is my first try to get into GitHub and ingaging with git
+This is my first try to get into GitHub and engaging with git
 
 the Date: 25th July 2023
 
